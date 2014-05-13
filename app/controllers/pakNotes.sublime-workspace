@@ -7,6 +7,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/valerie/rails_projects/paknotes/app/views/static_pages/home.html.erb",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/valerie/rails_projects/paknotes/app/views/static_pages/about.html.erb",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/valerie/rails_projects/paknotes/app/views/static_pages/help.html.erb",
+			"settings":
+			{
+				"buffer_size": 358,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
@@ -36,11 +60,17 @@
 	},
 	"file_history":
 	[
+		"/Users/valerie/rails_projects/paknotes/spec/requests/static_pages_spec.rb",
+		"/Users/valerie/rails_projects/paknotes/app/views/static_pages/about.html.erb",
 		"/Users/valerie/rails_projects/paknotes/app/controllers/static_pages_controller.rb",
+		"/Users/valerie/rails_projects/paknotes/config/routes.rb",
+		"/Users/valerie/rails_projects/paknotes/app/views/static_pages/help.html.erb",
+		"/Users/valerie/rails_projects/paknotes/app/views/static_pages/home.html.erb",
+		"/Users/valerie/rails_projects/paknotes/spec/spec_helper.rb",
+		"/Users/valerie/rails_projects/paknotes/Gemfile",
 		"/Users/valerie/rails_projects/paknotes/.bundle/config",
 		"/Users/valerie/rails_projects/paknotes/app/models/paknotes",
 		"/Users/valerie/rails_projects/paknotes/.gitignore",
-		"/Users/valerie/rails_projects/paknotes/Gemfile",
 		"/Users/valerie/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/Users/valerie/rails_projects/grapefruit/spec/requests/static_pages_spec.rb",
 		"/Users/valerie/rails_projects/grapefruit/app/controllers/static_pages_controller.rb",
@@ -105,6 +135,90 @@
 	"groups":
 	[
 		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/valerie/rails_projects/paknotes/app/views/static_pages/home.html.erb",
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/valerie/rails_projects/paknotes/app/views/static_pages/about.html.erb",
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/valerie/rails_projects/paknotes/app/views/static_pages/help.html.erb",
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
 			"sheets":
 			[
 			]
@@ -127,11 +241,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
